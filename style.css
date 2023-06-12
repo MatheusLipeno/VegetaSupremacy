@@ -1,0 +1,67 @@
+body {
+      background-color: #FDF8F4;
+      font-family: Arial, sans-serif;
+      color: #333333;
+    }
+    
+    header {
+      background-color: #000000
+;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    h1 {
+      color: #FFFFFF;
+      margin: 0;
+    }
+    
+    section {
+      margin-bottom: 30px;
+      padding: 20px;
+      background-color: #FFFFFF;
+    }
+    
+    h2 {
+      color: #FF8F00;
+    }
+    
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    
+    li {
+      margin-bottom: 20px;
+    }
+    
+    h3 {
+      color: #333333;
+      margin: 0;
+    }
+    
+    p {
+      margin: 0;
+    }
+    
+    select {
+      margin-top: 10px;
+    }
+    
+    footer {
+      background-color: #FF8F00;
+      padding: 10px;
+      text-align: center;
+      color: #FFFFFF;
+      font-size: 12px;
+    }
+    
+    /* Added CSS for pizza images */
+    .cardapio-image {
+      width: 200px; /* Adjust the desired width */
+      height: 150px; /* Adjust the desired height */
+      object-fit: cover;
+      border-radius: 5px;
+    }
+
+    }
